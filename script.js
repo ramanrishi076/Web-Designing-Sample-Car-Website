@@ -3,7 +3,7 @@ const menu = document.querySelector('.menu');
 const navLinks = document.querySelector('.nav-links');
 if(menu) menu.addEventListener('click',()=>navLinks.classList.toggle('open'));
 
-const current = location.pathname.split('/').pop().toLowerCase() || 'main.html';
+const current = location.pathname.split('/').pop().toLowerCase() || 'index.html';
 document.querySelectorAll('.nav-links a').forEach(a=>{
   const href=(a.getAttribute('href')||'').toLowerCase();
   if(href===current) a.classList.add('active');
