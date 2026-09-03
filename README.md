@@ -1,8 +1,8 @@
-# BMW — Automotive Website
+# Jaguar — Automotive Website
 
-A modern, responsive **BMW-inspired automotive website** built to showcase web development and UI/UX skills.
+A modern, responsive **Jaguar-inspired automotive website** built to showcase web development and UI/UX skills.
 
-> **Disclaimer:** This is an independent sample project created for educational and portfolio purposes. It is not affiliated with or endorsed by BMW.
+> **Disclaimer:** This is an independent sample project created for educational and portfolio purposes. It is not affiliated with or endorsed by Jaguar.
 
 ## ✨ Features
 
@@ -31,4 +31,4 @@ Clone the repository and open the project in your browser:
 
 ## 📄 License
 
-This project is for **educational and portfolio purposes only**. BMW trademarks, logos, and brand assets belong to their respective owners.
+This project is for **educational and portfolio purposes only**. Jaguar trademarks, logos, and brand assets belong to their respective owners.
